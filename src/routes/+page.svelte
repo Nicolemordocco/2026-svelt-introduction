@@ -9,8 +9,7 @@
     h1 {
         color: deepskyblue;
     }
-    p {
-        color: deeppink;
-    }
 </style>
+
+
 
